@@ -2,6 +2,7 @@
 
 - [AAMIR AHMAD](https://github.com/sickwiz)
 - [Abbas Abi](https://github.com/AbbasAbi)
+- [Abhishek Seth](https://github.com/Abhi1398)
 - [Abid Saleem](https://github.com/abidsal04)
 - [Adrian Martin](https://github.com/amgdevelop)
 - [Ajey Prasand](https://github.com/ajeyprasand)
